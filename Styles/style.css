@@ -1,0 +1,41 @@
+h1 {
+  Color:blue;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+p {
+color:blue;
+font-size: 16px;
+
+}
+
+#credits {
+
+  color:red;
+  font-family: monospace;
+}
+
+.links {color: red;
+font-weight: lighter;
+}
+
+body {
+  background-color: #cecece;
+  width: auto;
+  text-align: center;
+}
+
+footer {font-weight: bold;
+color: blue;}
+
+ol {
+text-align: center;
+  background-color: white;
+  background-size: 70%;
+  width: 70%;
+  margin: auto;
+  padding: 18px;
+
+
+}
